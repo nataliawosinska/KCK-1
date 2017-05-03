@@ -38,11 +38,10 @@ Wypunktowanie
 
 `[Tekst](hiperłącze)`
 
-[WLODEK](www.wlodek.edu.pl)
+[Readme.md](Readme.md)
 
 `![Tekst zastępczy](adres obrazka)`
+![SWPW](swpw.png)
 
 
-
-oto kod `kod programu` do wykonania
 
