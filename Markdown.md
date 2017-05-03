@@ -38,9 +38,10 @@ Wypunktowanie
 
 `[Tekst](hiperłącze)`
 
-[Readme.md](Readme.md)
+[Readme.md](README.md)
 
 `![Tekst zastępczy](adres obrazka)`
+
 ![SWPW](swpw.png)
 
 
