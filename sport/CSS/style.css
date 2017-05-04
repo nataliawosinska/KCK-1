@@ -18,8 +18,8 @@ body{
 }
 .tlo div{
 	background-color: #c0c0c0;
-    margin: 10px 0px;
-    padding: 1px 7px;
+    	margin: 10px 0px;
+    	padding: 1px 7px;
 	border-radius: 20px;
 	-webkit-border-radius: 20px;
 	-moz-border-radius: 20px;
@@ -44,9 +44,24 @@ body{
 }
 #left ul li  a:hover{
 	background-color: #999;
-    color: #000;
+    	color: #000;
 } 
 #top div {
          padding-left: 20px;
 }
- 
+
+#gora {
+    height: 30px;
+    margin: 30px 0px 0px 0px;
+    background: linear-gradient(silver, black);
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#dol {
+    height: 30px;
+    margin: 0px;
+    background: linear-gradient(black, silver);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
