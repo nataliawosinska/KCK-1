@@ -19,10 +19,10 @@ Poszczególni członkowie pracują nad swoją gałęzią (branch), a kierownik s
 ![wersja0](wer0.jpg)
 
 ## Wersja 1 ##
-![wersja1](wer2.jpg)
+![wersja1](wer1.jpg)
 
 ## Wersja 2 ##
-![wersja2](wer3.jpg)
+![wersja2](wer2.jpg)
 
 ## Wersja ostateczna ##
 ![wersja3](wer3.jpg)
