@@ -20,7 +20,7 @@ Podstawowe znaczniki umożliwiające formatowanie:
 `>Cytowanie`
 >Cytowanie
 
-`Kod programu umieszcza się w cudzysłowie `
+`Kod programu umieszcza się pomiędzy znakami akcentu.`
 
 `Kod programu`
 
