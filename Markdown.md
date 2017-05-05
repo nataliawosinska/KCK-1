@@ -20,9 +20,25 @@ Podstawowe znaczniki umożliwiające formatowanie:
 `>Cytowanie`
 >Cytowanie
 
-`Kod programu umieszcza się pomiędzy znakami akcentu.`
+`Kod programu umieszcza się pomiędzy znakami akcentu (backtick).`
 
-`Kod programu`
+\` tu wpisać linię kodu \`
+
+\`\`\`
+
+tu wpisać fragment 
+
+kodu w kilku liniach
+
+\`\`\`
+
+
+```Kod programu
+for(i=1; i<=10; i++)
+{
+ if(i % 2 == 0) document.write(i + "<br>")
+}
+```
 
 ```wypunktowanie
 Wypunktowanie
