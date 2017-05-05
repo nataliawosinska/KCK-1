@@ -22,15 +22,18 @@ Podstawowe znaczniki umożliwiające formatowanie:
 
 `Kod programu umieszcza się pomiędzy znakami akcentu (backtick).`
 
-\` tu wpisać linię kodu \`
+
+\` `tu wpisać linię kodu` \`
+
+
 
 \`\`\`
-
+```
 tu wpisać fragment 
-
 kodu w kilku liniach
-
+```
 \`\`\`
+
 
 
 ```Kod programu
